@@ -4,4 +4,5 @@ def main():
     result = values.pop()
     print(result)
 
+
 main()
